@@ -1,4 +1,4 @@
-#  Salary Prediction Analysis
+#  Financial Risk Analysis
 
 A data-driven project that analyzes salary patterns based on demographic and professional attributes, and builds predictive models to estimate salaries using machine learning techniques.
 
